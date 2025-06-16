@@ -2,7 +2,7 @@
 
 Welcome to **BlogAI Assistant**, an AI-powered chatbot that helps users explore and understand **Snowpark for Data Engineering** using natural language. It integrates **Azure OpenAI**, **HuggingFace Embeddings**, and **LlamaIndex** to deliver accurate answers with context-aware intelligence.
 
-![Chat Demo](./chat.png) <!-- Replace with actual screenshot path -->
+![Chat Demo](01-blog-ai-assiatant/chat.png) <!-- Replace with actual screenshot path -->
 
 ---
 
